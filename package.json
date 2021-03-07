@@ -1,0 +1,11 @@
+{
+  "name": "desafio-10",
+  "version": "1.0.0",
+  "description": "Exercício de consumo de api e criação de rota para aula 10 da DH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Dias",
+  "license": "ISC"
+}
